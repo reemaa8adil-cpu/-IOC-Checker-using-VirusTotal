@@ -1,6 +1,6 @@
-#IOC Checker using VirusTotal
+# IOC Checker using VirusTotal
 
-#About
+## About
 A cybersecurity project developed using Python and VirusTotal API to analyze Indicators of Compromise (IOCs) and classify them based on predefined trust criteria.
 
 ## Features
@@ -11,14 +11,14 @@ A cybersecurity project developed using Python and VirusTotal API to analyze Ind
 - Display scan results.
 - Export untrusted IOCs as an Excel Block List.
 
-#Technologies
+## Technologies
 - Python
 - Streamlit
 - VirusTotal API
 - Pandas
 - Requests
 
-#How to Run
+## How to Run
 1. Clone the repository.
 2. Install the required dependencies:
    `pip install -r requirements.txt`
@@ -26,3 +26,5 @@ A cybersecurity project developed using Python and VirusTotal API to analyze Ind
 4. Run the application:
    `streamlit run ioc.py`
 
+## Author
+Your Name
