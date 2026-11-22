@@ -26,5 +26,3 @@ A cybersecurity project developed using Python and VirusTotal API to analyze Ind
 4. Run the application:
    `streamlit run ioc.py`
 
-## Author
-Your Name
