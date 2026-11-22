@@ -25,8 +25,7 @@ A cybersecurity project developed using Python and VirusTotal API to analyze Ind
 3. Configure your VirusTotal API key as an environment variable.
 4. Run the application:
    `streamlit run ioc.py`
-
-<img width="1080" height="720" alt="Screenshot 2026-11-22 190242" src="https://github.com/user-attachments/assets/f7c2e70f-642a-4207-927c-412f8fb6a1ab" />
-<img width="1080" height="720" alt="Screenshot 2026-11-22 190533" src="https://github.com/user-attachments/assets/8862906a-5bf4-4deb-9091-729c6b9f47d7" />
-<img width="1080" height="720" alt="Screenshot 2026-11-22 190627" src="https://github.com/user-attachments/assets/54d2b1de-94dd-4586-b8ee-9ba7b5e7d385" />
+<img width="1080" height="610" alt="Screenshot 2026-11-22 190242" src="https://github.com/user-attachments/assets/b8c0ad88-5ea3-4f07-8e69-d34ebd806a32" />
+<img width="1080" height="635" alt="Screenshot 2026-11-22 190533" src="https://github.com/user-attachments/assets/38a2f48f-1141-4118-90ea-7155a9a06387" />
+<img width="1080" height="636" alt="Screenshot 2026-11-22 190627" src="https://github.com/user-attachments/assets/b3aabbff-baac-43a0-b45e-193cc11cf40c" />
 
